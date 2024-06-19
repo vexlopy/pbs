@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="PBS National Feed [HLS]" tvg-logo="https://image.pbs.org/bento3-prod/pbscareers-bento-live-pbs/0a0c8d6b54_PBS_wblue_rgb.png",PBS EAST
+#EXTINF:-1 group-title="PBS National" tvg-logo="https://image.pbs.org/bento3-prod/pbscareers-bento-live-pbs/0a0c8d6b54_PBS_wblue_rgb.png",PBS EAST
 https://pbs.lls.cdn.pbs.org/est/index.m3u8
-#EXTINF:-1 group-title="PBS National Feed [HLS]" tvg-logo="https://image.pbs.org/bento3-prod/pbscareers-bento-live-pbs/0a0c8d6b54_PBS_wblue_rgb.png",PBS WEST
+#EXTINF:-1 group-title="PBS National" tvg-logo="https://image.pbs.org/bento3-prod/pbscareers-bento-live-pbs/0a0c8d6b54_PBS_wblue_rgb.png",PBS WEST
 https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 
-#EXTINF:-1 group-title="PBS Kids 24/7 [HLS]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS EASTERN
+#EXTINF:-1 group-title="PBS Kids 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS EASTERN
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-#EXTINF:-1 group-title="PBS Kids 24/7 [HLS]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS MOUNTAIN
+#EXTINF:-1 group-title="PBS Kids 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS MOUNTAIN
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 group-title="PBS Kids 24/7 [HLS]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS PASIFIC
+#EXTINF:-1 group-title="PBS Kids 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS PASIFIC
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 group-title="PBS Kids 24/7 [HLS]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS ALASKA
+#EXTINF:-1 group-title="PBS Kids 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS ALASKA
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 group-title="PBS Kids 24/7 [HLS]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS HAWAII
+#EXTINF:-1 group-title="PBS Kids 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/480px-PBS_Kids_logo_%282022%29.svg.png",PBS KIDS HAWAII
 https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
